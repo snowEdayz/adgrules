@@ -25,7 +25,6 @@
 # 华为
 # 快应用
 ||fastappjump-drcn.hispace.dbankcloud.cn^$important
-||sdkserver-drcn.op.dbankcloud.cn^$important
 ||events-drcn.op.dbankcloud.cn^$important
 ||metrics1-drcn.dt.dbankcloud.cn^$important
 # 应用安全检查
@@ -41,3 +40,4 @@
 ||configdownload.dbankcdn.cn^$important
 # 天气
 ||api.qvkanwen.com^$important
+/.*?(feed|contentcenter).*?\.(dbankcloud|dbankcdn)\.cn/
