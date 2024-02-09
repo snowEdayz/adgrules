@@ -1,0 +1,43 @@
+# bilibili no pcdn
+#||mcdn.bilivideo.cn^$important
+||szbdyd.com^$important
+||data.bilibili.com^$important
+
+# 电信营业厅 宽带提速
+@@||webwebfenxi.189.cn^$important
+
+# 淘宝 绿网计划
+||detailskip.taobao.com^$important
+
+# 百度网盘 禁止更新
+||update.baidu.com^$important
+||update.pan.baidu.com^$important
+
+# 原神
+||ys-log-upload-os.hoyoverse.com^$important
+||osuspider.yuanshen.com^$important
+
+# MiPush
+@@||register.xmpush.xiaomi.com^$important
+@@||cn.app.chat.xiaomi.net^$important
+@@||resolver.msg.xiaomi.net^$important
+
+# 华为
+# 快应用
+||fastappjump-drcn.hispace.dbankcloud.cn^$important
+||sdkserver-drcn.op.dbankcloud.cn^$important
+||events-drcn.op.dbankcloud.cn^$important
+||metrics1-drcn.dt.dbankcloud.cn^$important
+# 应用安全检查
+||ixav-cse.avlyun.com^$important
+||appsec.hicloud.com^$important
+||msch.f.360.cn^$important
+||tmfsdk.m.qq.com^$important
+||tmfsdktcpv4.m.qq.com^$important
+||tsms-drcn.security.dbankcloud.cn^$important
+# 应用市场
+||apppromotion-drcn.dbankcdn.cn^$important
+||appoptimize-drcn.dbankcdn.cn^$important
+||configdownload.dbankcdn.cn^$important
+# 天气
+||api.qvkanwen.com^$important
